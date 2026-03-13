@@ -1,0 +1,6 @@
+@Elevator.API_HostAddress = http://localhost:5120
+
+GET {{Elevator.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
